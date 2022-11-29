@@ -1,8 +1,8 @@
 ## Screenshots
 
-![Screenshot-1](./screenshots/img1.png?raw=true "scrsht-1")
-![Screenshot-2](./screenshots/img2.png?raw=true "scrsht-2")
-![Screenshot-3](./screenshots/img3.png?raw=true "scrsht-3")
+![Screenshot-1](/screenshots/img1.png?raw=true "scrsht-1")
+![Screenshot-2](/screenshots/img2.png?raw=true "scrsht-2")
+![Screenshot-3](/screenshots/img3.png?raw=true "scrsht-3")
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
